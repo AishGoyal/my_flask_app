@@ -1,0 +1,17 @@
+# Ignore virtual environment directories
+venv
+env
+.env
+
+# Ignore Python cache files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore other unnecessary files
+.Python
+.DS_Store
+*.sqlite3
+.git
+.vscode
